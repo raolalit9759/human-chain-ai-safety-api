@@ -35,11 +35,11 @@ git clone https://github.com/raolalit9759/human-chain-ai-safety-api.git
 cd human-chain-ai-safety-api
 ```
 
-### 2. Create and Activate Virtual Environment (optional but recommended)
+### 2. Create and Activate Virtual Environment
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate   
 ```
 
 ### 3. Install Dependencies
@@ -122,10 +122,10 @@ curl http://localhost:5000/incidents
 
 ## 🧠 Technologies Used
 
-- **Language**: Python 3
-- **Framework**: Flask
-- **Database**: MongoDB
-- **ODM**: Flask-PyMongo
+- Language: Python 3
+- Framework: Flask
+- Database: MongoDB
+- ODM: Flask-PyMongo
 
 ---
 
