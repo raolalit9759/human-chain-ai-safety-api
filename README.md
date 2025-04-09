@@ -118,9 +118,8 @@ curl -X POST http://localhost:5000/incidents \
 -H "Content-Type: application/json" \
 -d '{"title":"AI Model Failure","description":"Unexpected output from AI","severity":"High"}'
 ```
-Post Artifact
+Create Incident Artifact
 ![image](https://github.com/user-attachments/assets/c0b4d83e-5585-401e-8de8-685264f4f569)
-![image](https://github.com/user-attachments/assets/8d75f41f-741b-4828-91ae-264f274a082e)
 
 
 **Get All Incidents:**
@@ -151,8 +150,9 @@ curl http://localhost:5000/incidents
 ## ✅ Status
 
 ![image](https://github.com/user-attachments/assets/adcbf7f1-9d85-4803-8111-a6518ea1d6c0)
-
 ![image](https://github.com/user-attachments/assets/96d00411-81d6-474c-8358-955762e87878)
+
+![image](https://github.com/user-attachments/assets/2027eefd-12b2-4b3a-bfd6-2ec744545aed)
 
 
 Final version — ready for submission to HumanChain.
