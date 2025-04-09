@@ -72,6 +72,8 @@ Run this once to insert testing data:
 python seed.py
 
 Post Artifact
+![image alt ](![image](https://github.com/user-attachments/assets/ef3e2eea-9255-4290-af45-b204b0d340dc)
+)
 
 ```
 
