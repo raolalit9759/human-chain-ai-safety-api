@@ -120,6 +120,7 @@ curl -X POST http://localhost:5000/incidents \
 ```bash
 curl http://localhost:5000/incidents
 ```
+![image](https://github.com/user-attachments/assets/21dbaef7-e259-46a3-b696-a1fbdd4d92f7)
 
 ---
 
