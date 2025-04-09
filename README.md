@@ -150,6 +150,11 @@ curl http://localhost:5000/incidents
 
 ## ✅ Status
 
+![image](https://github.com/user-attachments/assets/adcbf7f1-9d85-4803-8111-a6518ea1d6c0)
+
+![image](https://github.com/user-attachments/assets/96d00411-81d6-474c-8358-955762e87878)
+
+
 Final version — ready for submission to HumanChain.
 
 
