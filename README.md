@@ -114,6 +114,9 @@ curl -X POST http://localhost:5000/incidents \
 -H "Content-Type: application/json" \
 -d '{"title":"AI Model Failure","description":"Unexpected output from AI","severity":"High"}'
 ```
+Post Artifact
+![image](https://github.com/user-attachments/assets/c0b4d83e-5585-401e-8de8-685264f4f569)
+
 
 **Get All Incidents:**
 
