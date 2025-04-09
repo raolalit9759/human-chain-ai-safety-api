@@ -71,8 +71,11 @@ Run this once to insert testing data:
 ```bash
 python seed.py
 
+![seed app_post_artifact](https://github.com/user-attachments/assets/dff94031-0d1f-43ba-9fa6-a78a6a5548af)
+
 Post Artifact
-![image alt ](https://github.com/raolalit9759/human-chain-ai-safety-api/blob/bc54787e92405da65f2847f4a74dfb9c3714a6af/seed.app_post_artifact.JPG)
+
+
 
 ```
 
