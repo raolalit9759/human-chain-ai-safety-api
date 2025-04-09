@@ -73,8 +73,8 @@ python seed.py
 
 Post Artifact
 
-https://github.com/raolalit9759/human-chain-ai-safety-api/blob/73b0620ffe19803702366b45fa53b15b4020c88d/seed.app_post_artifact.JPG
-![image](https://github.com/user-attachments/assets/a51a41a1-22f9-4616-8efe-173e4e91a2bd)
+
+![image](https://github.com/raolalit9759/human-chain-ai-safety-api/blob/73b0620ffe19803702366b45fa53b15b4020c88d/seed.app_post_artifact.JPG)
 
 ```
 
