@@ -70,14 +70,10 @@ Run this once to insert testing data:
 
 ```bash
 python seed.py
-![seed app_post_artifact](https://github.com/user-attachments/assets/dff94031-0d1f-43ba-9fa6-a78a6a5548af)
-![image](https://github.com/raolalit9759/human-chain-ai-safety-api/blob/59dfd9cd5d5b9f33c97895b19be0baf28bb9c086/seed.app_post_artifact.png?raw=true)
-Post Artifact
-
-
-
 ```
 
+![image](https://github.com/raolalit9759/human-chain-ai-safety-api/blob/59dfd9cd5d5b9f33c97895b19be0baf28bb9c086/seed.app_post_artifact.png?raw=true)
+Post Artifact
 ---
 
 ## 📫 API Endpoints
