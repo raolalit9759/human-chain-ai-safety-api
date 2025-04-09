@@ -70,6 +70,10 @@ Run this once to insert testing data:
 
 ```bash
 python seed.py
+
+Post Artifact
+![image](https://github.com/user-attachments/assets/a51a41a1-22f9-4616-8efe-173e4e91a2bd)
+
 ```
 
 ---
