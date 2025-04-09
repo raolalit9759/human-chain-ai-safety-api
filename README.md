@@ -72,8 +72,7 @@ Run this once to insert testing data:
 python seed.py
 
 Post Artifact
-![image alt ](![image](https://github.com/user-attachments/assets/ef3e2eea-9255-4290-af45-b204b0d340dc)
-)
+![image alt ](https://github.com/raolalit9759/human-chain-ai-safety-api/blob/bc54787e92405da65f2847f4a74dfb9c3714a6af/seed.app_post_artifact.JPG)
 
 ```
 
